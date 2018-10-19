@@ -1,3 +1,2 @@
-print("nová větev")
-print("Hello IT Network")
-print("Ahoj světe!")
+if True:
+    print(piča)
